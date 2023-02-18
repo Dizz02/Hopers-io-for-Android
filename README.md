@@ -1,4 +1,4 @@
-# Hopers.io
+# <img src="/screenshots/Hopers.png" width="300" height="70">
 This is a simple Android app that displays a web page using a WebView component. 
 The app is built using Java and Android Studio, and it supports both portrait and landscape orientations.
 
